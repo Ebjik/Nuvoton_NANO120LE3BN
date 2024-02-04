@@ -11922,6 +11922,10 @@ typedef volatile unsigned long  vu32;       ///< Define 32-bit unsigned volatile
 /******************************************************************************/
 /*                         Peripheral header files                            */
 /******************************************************************************/
+//#include "IT.h"
+#include "MySYS.h"
+#include "SPI.h"
+#include "I2C.h"
 //#include "sys.h"
 //#include "clk.h"
 //#include "adc.h"

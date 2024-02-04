@@ -15,7 +15,7 @@ PA12(28)i2c_SDA(0x05)
 PA11(4)I2C1_SCL(0x01)
 PA10(5)I2C1_SDA(0x01)
 
-
+ 
 */
 void I2C_Init(I2C_T * i2c,uint8_t dir){
 	
